@@ -32,25 +32,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-8" value="打开阳台门" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="180" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="300" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="LTIODrsQQtWpd19YiVFc-11" target="LTIODrsQQtWpd19YiVFc-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-11" value="加水" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="180" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="LTIODrsQQtWpd19YiVFc-13" target="LTIODrsQQtWpd19YiVFc-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-13" value="铲屎" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="180" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="LTIODrsQQtWpd19YiVFc-15" target="LTIODrsQQtWpd19YiVFc-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-15" value="陪玩一下" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="180" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="LTIODrsQQtWpd19YiVFc-17" target="LTIODrsQQtWpd19YiVFc-19">
           <mxGeometry relative="1" as="geometry" />
