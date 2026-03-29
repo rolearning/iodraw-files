@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-1" value="进门" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="470" y="10" width="120" height="30" as="geometry" />
+          <mxGeometry x="180" y="10" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="LTIODrsQQtWpd19YiVFc-2" target="LTIODrsQQtWpd19YiVFc-3">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-6" value="打开铁门" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="180" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="240" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="LTIODrsQQtWpd19YiVFc-8" target="LTIODrsQQtWpd19YiVFc-11">
           <mxGeometry relative="1" as="geometry" />
