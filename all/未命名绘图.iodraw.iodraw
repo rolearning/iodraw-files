@@ -54,8 +54,14 @@
         <mxCell id="LTIODrsQQtWpd19YiVFc-15" value="陪玩一下" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="585" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LTIODrsQQtWpd19YiVFc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTIODrsQQtWpd19YiVFc-17" target="LTIODrsQQtWpd19YiVFc-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-17" value="关阳台门" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="725" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTIODrsQQtWpd19YiVFc-19" value="关铁门" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
