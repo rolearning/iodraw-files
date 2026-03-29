@@ -36,8 +36,8 @@
         <mxCell id="LTIODrsQQtWpd19YiVFc-8" value="打开阳台门" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LTIODrsQQtWpd19YiVFc-11" value="打开阳台门" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="LTIODrsQQtWpd19YiVFc-11" value="加水" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
