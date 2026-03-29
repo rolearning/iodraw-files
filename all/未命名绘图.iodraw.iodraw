@@ -56,19 +56,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-17" value="关阳台门" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="180" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="620" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="LTIODrsQQtWpd19YiVFc-19" target="LTIODrsQQtWpd19YiVFc-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-19" value="关铁门" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="180" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="670" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-21" value="结束" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="180" y="910" width="120" height="30" as="geometry" />
+          <mxGeometry x="180" y="770" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-23" value="再次检查小猫是否都在房间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="240" y="850" width="140" height="30" as="geometry" />
+          <mxGeometry x="250" y="720" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
