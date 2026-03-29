@@ -30,8 +30,14 @@
         <mxCell id="LTIODrsQQtWpd19YiVFc-6" value="打开铁门" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LTIODrsQQtWpd19YiVFc-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTIODrsQQtWpd19YiVFc-8" target="LTIODrsQQtWpd19YiVFc-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-8" value="打开阳台门" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTIODrsQQtWpd19YiVFc-11" value="打开阳台门" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
