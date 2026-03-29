@@ -1,0 +1,882 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="24.7.17" pages="5">
+  <diagram name="第 1 页" id="gAiPJHwjmhXaJvhQGnT-">
+    <mxGraphModel dx="1010" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0mCOWExER1J1II8LMqYW-1" value="大黄基因组&lt;div style=&quot;font-size: 15px;&quot;&gt;（&lt;em style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 15px; text-align: start; visibility: visible !important;&quot;&gt;R. officinale&lt;/em&gt;）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fillColor=#647687;fontColor=#FFFFFF;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="10" y="510" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0mCOWExER1J1II8LMqYW-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0mCOWExER1J1II8LMqYW-15" target="0mCOWExER1J1II8LMqYW-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0mCOWExER1J1II8LMqYW-9" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px;&quot;&gt;多倍化是否影响起表型/代谢物合成/环境适应性&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="564" y="200" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0mCOWExER1J1II8LMqYW-15" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;auto/allo？&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;fillColor=none;strokeColor=none;fontColor=#FFFFFF;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="215" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o-mxm70ipGLt1TliDZNW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0mCOWExER1J1II8LMqYW-19" target="o-mxm70ipGLt1TliDZNW-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0mCOWExER1J1II8LMqYW-19" value="转录组 &amp;amp; 代谢组联合分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontFamily=Times New Roman;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="159" y="600" width="116" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o-mxm70ipGLt1TliDZNW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0mCOWExER1J1II8LMqYW-25" target="o-mxm70ipGLt1TliDZNW-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0mCOWExER1J1II8LMqYW-25" value="揭示&lt;span style=&quot;font-size: 14px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 14px; text-align: start; visibility: visible !important;&quot;&gt;R. officinale&lt;/em&gt;&lt;span style=&quot;font-size: 14px; text-align: start;&quot;&gt;&amp;nbsp;代谢物生物合成和抗逆性的基因组和基因家族进化&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;rounded=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="414" y="310" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0mCOWExER1J1II8LMqYW-27" value="&lt;span style=&quot;font-size: 14px; text-align: start;&quot;&gt;揭示同源染色体的基因组特征&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fillColor=#d0cee2;strokeColor=#56517e;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0mCOWExER1J1II8LMqYW-30" value="&lt;span style=&quot;font-family: ElsevierGulliver, Georgia, &amp;quot;Times New Roman&amp;quot;, Times, STIXGeneral, &amp;quot;Cambria Math&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Microsoft Sans Serif&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Arial Unicode MS&amp;quot;, serif, sans-serif; font-size: 14px; text-align: start;&quot;&gt;探讨不同不同组织之间蒽醌含量差异的遗传基础&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fillColor=none;rounded=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="310" y="630" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0mCOWExER1J1II8LMqYW-38" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="160" y="250" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0mCOWExER1J1II8LMqYW-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;container=0;" parent="0mCOWExER1J1II8LMqYW-38" vertex="1">
+          <mxGeometry width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0mCOWExER1J1II8LMqYW-33" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot;&gt;&lt;i&gt;R. officinale&lt;/i&gt;的单倍体基因组A&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fillColor=#76608a;strokeColor=#432D57;fontColor=#FFFFFF;" parent="0mCOWExER1J1II8LMqYW-38" vertex="1">
+          <mxGeometry x="10" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0mCOWExER1J1II8LMqYW-35" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot;&gt;12个代表物种的基因组&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fillColor=#76608a;strokeColor=#432D57;fontColor=#FFFFFF;" parent="0mCOWExER1J1II8LMqYW-38" vertex="1">
+          <mxGeometry x="120" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0mCOWExER1J1II8LMqYW-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0mCOWExER1J1II8LMqYW-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o-mxm70ipGLt1TliDZNW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#76608a;strokeColor=#432D57;" parent="1" source="0t4DlsBwVL6SNa21gCOw-1" target="0mCOWExER1J1II8LMqYW-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0t4DlsBwVL6SNa21gCOw-1" value="基因组组装注释" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontFamily=Times New Roman;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="159" y="450" width="121" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o-mxm70ipGLt1TliDZNW-4" value="&lt;span style=&quot;font-family: Helvetica; font-size: 14px; text-align: left;&quot;&gt;大黄蒽醌途径的基因显著扩增，相关的酶基因在根中高表达。可能导致了大黄根部蒽醌含量丰富。&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fillColor=#d0cee2;strokeColor=#56517e;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="592.5" width="220" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="0mCOWExER1J1II8LMqYW-13" value="比较基因组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontFamily=Times New Roman;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="159" y="520" width="121" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o-mxm70ipGLt1TliDZNW-9" value="7.68Gb" style="text;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="210" y="420" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o-mxm70ipGLt1TliDZNW-10" value="大黄中特定的扩张基因家族主要参与特殊代谢物的生物合成以及对生物/非生物胁迫的反应" style="whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;rounded=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="480" y="455" width="220" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="o-mxm70ipGLt1TliDZNW-15" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; text-align: left;&quot;&gt;转座子TEs对代谢物生物合成、抗逆性和根系发育的基因组进化、基因拷贝数变异、基因调控和表达有重要作用&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;rounded=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="480" y="520" width="220" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="om3aCtin8rtjUHr9FAsN" name="第 2 页">
+    <mxGraphModel dx="903" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gvJwhPO43oaHb27lUrHY-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;container=0;fontSize=15;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="421" y="321" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gvJwhPO43oaHb27lUrHY-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;" parent="1" source="BOV2i-mkkyPO12bUnSxo-2" target="BOV2i-mkkyPO12bUnSxo-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gvJwhPO43oaHb27lUrHY-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;" parent="1" source="BOV2i-mkkyPO12bUnSxo-2" target="BOV2i-mkkyPO12bUnSxo-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gvJwhPO43oaHb27lUrHY-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;" parent="1" source="BOV2i-mkkyPO12bUnSxo-2" target="BOV2i-mkkyPO12bUnSxo-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gvJwhPO43oaHb27lUrHY-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;" parent="1" source="BOV2i-mkkyPO12bUnSxo-2" target="BOV2i-mkkyPO12bUnSxo-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TjI7S9Hv90MI5oO7mnKv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;" parent="1" source="BOV2i-mkkyPO12bUnSxo-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="103" y="618" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOV2i-mkkyPO12bUnSxo-2" value="比较基因组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;fontStyle=0;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="87" y="526" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BOV2i-mkkyPO12bUnSxo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fontFamily=Helvetica;" parent="1" source="BOV2i-mkkyPO12bUnSxo-3" target="gvJwhPO43oaHb27lUrHY-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BOV2i-mkkyPO12bUnSxo-3" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;1、物种进化关系如何？何时分化？&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=15;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="256" y="337" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gvJwhPO43oaHb27lUrHY-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;" parent="1" source="BOV2i-mkkyPO12bUnSxo-4" target="gvJwhPO43oaHb27lUrHY-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BOV2i-mkkyPO12bUnSxo-4" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;2、染色体片段如何重组、复制、进化？&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=15;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="257" y="413" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gvJwhPO43oaHb27lUrHY-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;" parent="1" source="BOV2i-mkkyPO12bUnSxo-6" target="gvJwhPO43oaHb27lUrHY-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BOV2i-mkkyPO12bUnSxo-6" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;3、基因家族差异？&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=15;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="257" y="506" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gvJwhPO43oaHb27lUrHY-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;" parent="1" source="BOV2i-mkkyPO12bUnSxo-8" target="gvJwhPO43oaHb27lUrHY-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BOV2i-mkkyPO12bUnSxo-8" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;4、哪些基因收到正选择&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=15;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="257" y="580" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gvJwhPO43oaHb27lUrHY-17" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;正选择分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="425" y="590" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gvJwhPO43oaHb27lUrHY-19" value="" style="group;fontSize=15;fontFamily=Helvetica;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="421" y="316" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gvJwhPO43oaHb27lUrHY-2" value="" style="group;fontSize=15;fontFamily=Helvetica;" parent="gvJwhPO43oaHb27lUrHY-19" vertex="1" connectable="0">
+          <mxGeometry x="10" y="15" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BOV2i-mkkyPO12bUnSxo-10" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;进化树构建&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" parent="gvJwhPO43oaHb27lUrHY-2" vertex="1">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BOV2i-mkkyPO12bUnSxo-12" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;分歧时间估计&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" parent="gvJwhPO43oaHb27lUrHY-2" vertex="1">
+          <mxGeometry y="30" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gvJwhPO43oaHb27lUrHY-20" value="" style="group;fontSize=15;fontFamily=Helvetica;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="422" y="397" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gvJwhPO43oaHb27lUrHY-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;container=0;fontSize=15;fontFamily=Helvetica;" parent="gvJwhPO43oaHb27lUrHY-20" vertex="1">
+          <mxGeometry width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gvJwhPO43oaHb27lUrHY-8" value="" style="group;fontSize=15;fontFamily=Helvetica;" parent="gvJwhPO43oaHb27lUrHY-20" vertex="1" connectable="0">
+          <mxGeometry x="10" y="10" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gvJwhPO43oaHb27lUrHY-9" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;共线性分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" parent="gvJwhPO43oaHb27lUrHY-8" vertex="1">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gvJwhPO43oaHb27lUrHY-10" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;WGD&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" parent="gvJwhPO43oaHb27lUrHY-8" vertex="1">
+          <mxGeometry y="30" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gvJwhPO43oaHb27lUrHY-69" value="" style="group;fontFamily=Helvetica;fontSize=15;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="422" y="480" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gvJwhPO43oaHb27lUrHY-64" value="" style="group;fontSize=15;fontFamily=Helvetica;" parent="gvJwhPO43oaHb27lUrHY-69" vertex="1" connectable="0">
+          <mxGeometry width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gvJwhPO43oaHb27lUrHY-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;container=0;fontSize=15;fontFamily=Helvetica;" parent="gvJwhPO43oaHb27lUrHY-64" vertex="1">
+          <mxGeometry width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gvJwhPO43oaHb27lUrHY-23" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;基因家族聚类&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" parent="gvJwhPO43oaHb27lUrHY-69" vertex="1">
+          <mxGeometry x="10" y="10" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gvJwhPO43oaHb27lUrHY-41" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;基因家族收缩、扩张&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" parent="gvJwhPO43oaHb27lUrHY-69" vertex="1">
+          <mxGeometry x="10" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="naLynRymMGZ_J0dUAnEh-1" value="转录组/代谢组联合分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#660000;fontSize=15;fontFamily=Helvetica;fontColor=#660000;" parent="1" vertex="1">
+          <mxGeometry x="87" y="651.5" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="8rh1VBpU491Dl_gDhv7M-1" value="&lt;span style=&quot;font-size: 15px; text-align: start;&quot;&gt;探讨不同组织之间代谢物含量差异的遗传基础&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;fillColor=#d0cee2;strokeColor=#56517e;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="654.75" width="313" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8rh1VBpU491Dl_gDhv7M-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Helvetica;fontSize=15;" parent="1" source="8rh1VBpU491Dl_gDhv7M-2" target="8rh1VBpU491Dl_gDhv7M-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rh1VBpU491Dl_gDhv7M-2" value="基因组组装" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="87" y="342" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rh1VBpU491Dl_gDhv7M-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Helvetica;fontSize=15;" parent="1" source="8rh1VBpU491Dl_gDhv7M-3" target="8rh1VBpU491Dl_gDhv7M-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rh1VBpU491Dl_gDhv7M-3" value="基因结构注释" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="87" y="391" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8rh1VBpU491Dl_gDhv7M-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Helvetica;fontSize=15;" parent="1" source="8rh1VBpU491Dl_gDhv7M-4" target="BOV2i-mkkyPO12bUnSxo-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rh1VBpU491Dl_gDhv7M-4" value="基因组质量评价&amp;amp;基因功能注释" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="87" y="440" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="JMkzqzDOaHQ4_wpN-2Dr-1" value="&lt;span style=&quot;font-size: 15px; text-align: left;&quot;&gt;大黄蒽醌途径的基因显著扩增，相关的酶基因在根中高表达。可能导致了大黄根部蒽醌含量丰富。&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;fillColor=#bac8d3;strokeColor=#23445d;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="634" width="229" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="JMkzqzDOaHQ4_wpN-2Dr-2" value="大黄中特定的扩张基因家族主要参与特殊代谢物的生物合成以及对生物/非生物胁迫的反应" style="whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;rounded=1;fontFamily=Helvetica;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="574.5" y="511" width="220" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="JMkzqzDOaHQ4_wpN-2Dr-3" value="&lt;span style=&quot;font-size: 15px; text-align: left;&quot;&gt;转座子TEs对代谢物生物合成、抗逆性和根系发育的基因组进化、基因拷贝数变异、基因调控和表达有重要作用&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;rounded=1;fontFamily=Helvetica;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="574.5" y="408" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S-syQ389E1-r5_fco31S-1" value="" style="group;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="574" y="320" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S-syQ389E1-r5_fco31S-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="S-syQ389E1-r5_fco31S-1" vertex="1">
+          <mxGeometry width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S-syQ389E1-r5_fco31S-3" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot;&gt;&lt;i&gt;R. officinale&lt;/i&gt;的单倍体基因组A&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="S-syQ389E1-r5_fco31S-1" vertex="1">
+          <mxGeometry x="10" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S-syQ389E1-r5_fco31S-4" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot;&gt;12个代表物种的基因组&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="S-syQ389E1-r5_fco31S-1" vertex="1">
+          <mxGeometry x="120" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="T7gWbsKnJ1gyTZPudLX6" name="第 3 页">
+    <mxGraphModel dx="1837" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bJSeo5-AdFhn80HtZzJJ-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;container=0;strokeColor=#7EA6E0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="922" y="876" width="313" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="UvsmiEpQIswJbMZeB2pK-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;container=0;strokeColor=#7EA6E0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="344" y="181.5" width="470" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zblJAanGVLhXrFgJMrvO-5" target="zblJAanGVLhXrFgJMrvO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zblJAanGVLhXrFgJMrvO-5" target="zblJAanGVLhXrFgJMrvO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zblJAanGVLhXrFgJMrvO-5" target="zblJAanGVLhXrFgJMrvO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zblJAanGVLhXrFgJMrvO-5" target="zblJAanGVLhXrFgJMrvO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-5" value="比较基因组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-126" y="272.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="zblJAanGVLhXrFgJMrvO-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214" y="122.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-7" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;1、物种进化关系如何？何时分化？&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="44" y="102.5" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zblJAanGVLhXrFgJMrvO-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214" y="222.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-9" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;2、染色体片段如何重组、复制、进化？&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="44" y="202.5" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zblJAanGVLhXrFgJMrvO-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214" y="452.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-11" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;3、基因家族差异？&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="44" y="432.5" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zblJAanGVLhXrFgJMrvO-13" target="RQSGAC8e0qLojzKOslyl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-13" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;4、哪些基因收到正选择&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="44" y="622.5" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-11" value="&lt;em style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(31, 31, 31); font-size: 13px; visibility: visible !important;&quot;&gt;R. officinale&lt;/em&gt;&lt;span style=&quot;color: rgb(31, 31, 31); font-size: 13px;&quot;&gt;&amp;nbsp;与&amp;nbsp;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(31, 31, 31); font-size: 13px; visibility: visible !important;&quot;&gt;&lt;a href=&quot;https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/fagopyrum&quot; title=&quot;Learn more about Fagopyrum from ScienceDirect&#39;s AI-generated Topic Pages&quot; class=&quot;topic-link&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; background-color: rgba(0, 0, 0, 0); word-break: break-word; text-decoration-thickness: 1px; text-decoration-color: rgb(31, 31, 31); color: rgb(31, 31, 31); text-underline-offset: 1px; font-size: 13px; visibility: visible !important;&quot;&gt;Fagopyrum&lt;/a&gt;&lt;/em&gt;&lt;em style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(31, 31, 31); font-size: 13px; visibility: visible !important;&quot;&gt;&amp;nbsp;tataricum&lt;/em&gt;&lt;span style=&quot;color: rgb(31, 31, 31); font-size: 13px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(31, 31, 31); font-size: 13px;&quot;&gt;和&amp;nbsp;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(31, 31, 31); font-size: 13px; visibility: visible !important;&quot;&gt;Fagopyrum dibotrys&lt;/em&gt;&lt;span style=&quot;color: rgb(31, 31, 31); font-size: 13px;&quot;&gt;&amp;nbsp;的祖先具有最密切的进化关系，它们的估计分化发生在 ∼33.4 mya&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;rounded=1;fontFamily=Times New Roman;fontSize=13;align=left;" vertex="1" parent="1">
+          <mxGeometry x="584" y="65" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-19" value="" style="group;fontSize=13;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="344" y="55" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;container=0;strokeColor=#7EA6E0;fontSize=13;" vertex="1" parent="pjbj3-qJ_IddYUADLCJ1-19">
+          <mxGeometry width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="pjbj3-qJ_IddYUADLCJ1-19" source="pjbj3-qJ_IddYUADLCJ1-7" target="pjbj3-qJ_IddYUADLCJ1-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-7" value="确定&lt;span style=&quot;text-align: start; font-size: 13px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; text-align: start; font-size: 13px; visibility: visible !important;&quot;&gt;R. officinale&lt;/em&gt;系统发育位置" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="pjbj3-qJ_IddYUADLCJ1-19">
+          <mxGeometry x="10" y="10" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="pjbj3-qJ_IddYUADLCJ1-19" source="pjbj3-qJ_IddYUADLCJ1-9" target="pjbj3-qJ_IddYUADLCJ1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-9" value="鉴定209单拷贝基因" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="pjbj3-qJ_IddYUADLCJ1-19">
+          <mxGeometry x="10" y="50" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-10" value="构建系统发育关系" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="pjbj3-qJ_IddYUADLCJ1-19">
+          <mxGeometry x="10" y="90" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-54" value="检测到2个主要的Ks峰，～2.21mya（古老γ三倍体事件），～0.89mya（Polygonaceae的WGD）" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="554" y="220" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-56" value="识别较大保守基因区域，含693、833基因对" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="555.62" y="188.5" width="250" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-57" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;共线性基因对的功能富集分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="354" y="188.5" width="180" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-60" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;不同类基因重复的功能富集&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="355" y="280" width="179" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-63" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span data-start=&quot;451&quot; data-end=&quot;460&quot; style=&quot;font-size: 13px;&quot;&gt;WGDGs与抗病、MAPK等相关；TGDs与次生代谢物合成相关；TRDGs与基因组稳定、根发育有关&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;rounded=1;fontFamily=Times New Roman;fontSize=13;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="554" y="280" width="250" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UvsmiEpQIswJbMZeB2pK-4" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;染色体重排分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="349" y="632" width="176" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UvsmiEpQIswJbMZeB2pK-5" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;转座子TE分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="349" y="665" width="176" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UvsmiEpQIswJbMZeB2pK-6" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;R中相较其他物种有大量LTR-RTs&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="555.25" y="661" width="241.05" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-53" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;通过计算Ks确定WGD&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="354" y="235" width="178" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;container=0;strokeColor=#7EA6E0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="344" y="472.5" width="470" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="pjbj3-qJ_IddYUADLCJ1-31" target="pjbj3-qJ_IddYUADLCJ1-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-31" value="基因家族收缩扩张" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;fontFamily=Times New Roman;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="356.7027027027027" y="492.5" width="177.8378378378378" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-32" value="2473扩增基因家族、3885收缩基因家族" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="558.6500000000001" y="491" width="241.35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="pjbj3-qJ_IddYUADLCJ1-34" target="pjbj3-qJ_IddYUADLCJ1-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-34" value="扩张基因家族功能富集分析" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="356.7" y="532.5" width="177.84" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-36" value="代谢物合成、&lt;font color=&quot;#330000&quot; style=&quot;font-size: 13px;&quot;&gt;苹果酸酶(ME)&lt;/font&gt;活性、应激反应、抗病等" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="559.95" y="518" width="241.35" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-40" value="以ME基因家族为代表鉴定" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="354" y="567.5" width="177.84" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-41" value="相较其他物种，R中有最多的ME同源，且在根部特异表达" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="558.3259459459459" y="567.5" width="241.35135135135133" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RQSGAC8e0qLojzKOslyl-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="214" y="172.5" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RQSGAC8e0qLojzKOslyl-2" value="" style="group;fontSize=15;" vertex="1" connectable="0" parent="RQSGAC8e0qLojzKOslyl-14">
+          <mxGeometry width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RQSGAC8e0qLojzKOslyl-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;container=0;fontSize=15;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-2">
+          <mxGeometry y="10" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-18" value="" style="group;fontSize=15;fillColor=none;strokeColor=none;" vertex="1" connectable="0" parent="RQSGAC8e0qLojzKOslyl-14">
+          <mxGeometry x="8.571428571428571" y="20" width="102.85714285714285" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-19" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;共线性分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" vertex="1" parent="zblJAanGVLhXrFgJMrvO-18">
+          <mxGeometry width="102.85714285714285" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-59" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;不同类型的基因重复&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-14">
+          <mxGeometry x="8.571428571428571" y="80" width="102.85714285714285" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-20" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;WGD&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-14">
+          <mxGeometry x="8.571428571428571" y="50" width="102.85714285714285" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RQSGAC8e0qLojzKOslyl-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="214" y="432.5" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-21" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;基因家族聚类&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-15">
+          <mxGeometry x="8.571428571428571" y="10" width="102.85714285714285" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-22" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;基因家族收缩、扩张&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-15">
+          <mxGeometry x="8.571428571428571" y="40" width="102.85714285714285" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RQSGAC8e0qLojzKOslyl-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;container=0;fontSize=15;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-15">
+          <mxGeometry width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RQSGAC8e0qLojzKOslyl-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="214" y="622.5" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RQSGAC8e0qLojzKOslyl-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;container=0;fontSize=15;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-16">
+          <mxGeometry width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-14" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;正选择分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-16">
+          <mxGeometry x="10" y="10" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RQSGAC8e0qLojzKOslyl-24" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="217" y="67.5" width="117" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RQSGAC8e0qLojzKOslyl-18" value="" style="group;fontSize=15;" vertex="1" connectable="0" parent="RQSGAC8e0qLojzKOslyl-24">
+          <mxGeometry width="117" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RQSGAC8e0qLojzKOslyl-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;container=0;fontSize=15;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-18">
+          <mxGeometry y="20" width="117" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-15" value="" style="group;fontSize=15;fillColor=none;strokeColor=none;" vertex="1" connectable="0" parent="RQSGAC8e0qLojzKOslyl-24">
+          <mxGeometry x="7" y="30" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-16" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;进化树构建&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" vertex="1" parent="zblJAanGVLhXrFgJMrvO-15">
+          <mxGeometry width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zblJAanGVLhXrFgJMrvO-17" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;分歧时间估计&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" vertex="1" parent="zblJAanGVLhXrFgJMrvO-15">
+          <mxGeometry y="30" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RQSGAC8e0qLojzKOslyl-25" value="" style="group;fontSize=13;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="344" y="357" width="470" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;container=0;strokeColor=#7EA6E0;fontSize=13;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-25">
+          <mxGeometry width="470" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="RQSGAC8e0qLojzKOslyl-25" source="pjbj3-qJ_IddYUADLCJ1-12" target="pjbj3-qJ_IddYUADLCJ1-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-12" value="基因家族聚类分析" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;fontFamily=Times New Roman;fontSize=13;fontStyle=1" vertex="1" parent="RQSGAC8e0qLojzKOslyl-25">
+          <mxGeometry x="12.702702702702709" y="20" width="177.8378378378378" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-13" value="8705基因家族为13个物种共有&lt;div style=&quot;font-size: 13px;&quot;&gt;2617基因家族是R独有&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-25">
+          <mxGeometry x="215.94594594594594" y="10" width="241.35135135135133" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-28" value="特异基因家族功能富集分析" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-25">
+          <mxGeometry x="12.699999999999989" y="60" width="177.84" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-30" value="代谢物生物合成、激素信号转导、抗病" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-25">
+          <mxGeometry x="215.95000000000005" y="60" width="241.35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RQSGAC8e0qLojzKOslyl-26" value="" style="group;fillColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-119" y="317.5" width="115.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;container=0;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-26">
+          <mxGeometry width="115.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-3" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot;&gt;&lt;i&gt;R. officinale&lt;/i&gt;的单倍体基因组A&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-26">
+          <mxGeometry x="6.75" y="7" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-4" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot;&gt;12个代表物种的基因组&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-26">
+          <mxGeometry x="6.75" y="52" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RQSGAC8e0qLojzKOslyl-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;container=0;strokeColor=#7EA6E0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="344" y="622.5" width="470" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="RQSGAC8e0qLojzKOslyl-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="199" y="882" width="289" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="UvsmiEpQIswJbMZeB2pK-7" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;单倍型基因组之间的进化关系和功能分化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-32">
+          <mxGeometry y="24" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UvsmiEpQIswJbMZeB2pK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RQSGAC8e0qLojzKOslyl-32" source="UvsmiEpQIswJbMZeB2pK-8" target="UvsmiEpQIswJbMZeB2pK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UvsmiEpQIswJbMZeB2pK-8" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;共线性分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=15;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-32">
+          <mxGeometry x="151" y="7" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UvsmiEpQIswJbMZeB2pK-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RQSGAC8e0qLojzKOslyl-32" source="UvsmiEpQIswJbMZeB2pK-11" target="UvsmiEpQIswJbMZeB2pK-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UvsmiEpQIswJbMZeB2pK-11" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;基因组变异&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=15;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-32">
+          <mxGeometry x="151" y="42" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UvsmiEpQIswJbMZeB2pK-13" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;有害功能突变&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=15;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-32">
+          <mxGeometry x="151" y="75" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RQSGAC8e0qLojzKOslyl-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;container=0;strokeColor=#7EA6E0;fontSize=13;" vertex="1" parent="RQSGAC8e0qLojzKOslyl-32">
+          <mxGeometry x="141" width="148" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="HkHkxpuikh-wabacoDcO-1" value="揭示&lt;span style=&quot;font-size: 14px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;em style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-size: 14px; text-align: start; visibility: visible !important;&quot;&gt;R. officinale&lt;/em&gt;&lt;span style=&quot;font-size: 14px; text-align: start;&quot;&gt;&amp;nbsp;代谢物生物合成和抗逆性的基因组和基因家族进化&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;rounded=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="907" y="753" width="238" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="CRMd2jpPCe07fEFg1XhY-1" value="&lt;span style=&quot;font-size: 14px; text-align: start;&quot;&gt;揭示同源染色体的基因组特征&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="515.95" y="902" width="161.67" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="zfeLzIDonylN_b3YIiLG-1" value="&lt;span style=&quot;font-family: ElsevierGulliver, Georgia, &amp;quot;Times New Roman&amp;quot;, Times, STIXGeneral, &amp;quot;Cambria Math&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Microsoft Sans Serif&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Arial Unicode MS&amp;quot;, serif, sans-serif; font-size: 14px; text-align: start;&quot;&gt;探讨不同组织之间蒽醌含量差异的遗传基础&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#FFFFFF;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1110" width="313" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bJSeo5-AdFhn80HtZzJJ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bJSeo5-AdFhn80HtZzJJ-4" target="bJSeo5-AdFhn80HtZzJJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJSeo5-AdFhn80HtZzJJ-4" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;祖先核型演化分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="932" y="883" width="130" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="bJSeo5-AdFhn80HtZzJJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bJSeo5-AdFhn80HtZzJJ-6" target="bJSeo5-AdFhn80HtZzJJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJSeo5-AdFhn80HtZzJJ-6" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;LTR-RTs&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="932" y="918" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJSeo5-AdFhn80HtZzJJ-7" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;有害功能突变&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="932" y="951" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJSeo5-AdFhn80HtZzJJ-9" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;绘制&lt;span style=&quot;background-color: initial;&quot;&gt;蓼科核型演化图谱&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1071" y="883" width="153" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="bJSeo5-AdFhn80HtZzJJ-10" value="比较基因组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-385" y="491" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJSeo5-AdFhn80HtZzJJ-11" value="转录组/代谢组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-387" y="577.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYxjxs1BpjBQX-PU0W2J-1" value="Rheum officinale" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="969.375" y="630.875" width="117" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYxjxs1BpjBQX-PU0W2J-2" value="转座子TEs对代谢物合成、抗逆等重要作用" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="556.5" y="627.5" width="247.5" height="23.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UvsmiEpQIswJbMZeB2pK-15" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;转录组和代谢组分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=15;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="203" y="771" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="UvsmiEpQIswJbMZeB2pK-17" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;共表达分析找到萜类代谢物&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="354" y="795" width="330" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="UvsmiEpQIswJbMZeB2pK-18" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;802种已知代谢物&lt;/span&gt;&lt;span style=&quot;color: rgb(31, 31, 31); font-family: ElsevierGulliver, Georgia, &amp;quot;Times New Roman&amp;quot;, Times, STIXGeneral, &amp;quot;Cambria Math&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Microsoft Sans Serif&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Arial Unicode MS&amp;quot;, serif, sans-serif; font-size: 15px; text-align: start;&quot;&gt;醌含量最高，根中最高&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="354" y="726" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="UvsmiEpQIswJbMZeB2pK-19" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;编码&lt;span style=&quot;color: rgb(31, 31, 31); font-family: ElsevierGulliver, Georgia, &amp;quot;Times New Roman&amp;quot;, Times, STIXGeneral, &amp;quot;Cambria Math&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Microsoft Sans Serif&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Arial Unicode MS&amp;quot;, serif, sans-serif; font-size: 15px; text-align: start; background-color: initial;&quot;&gt;蒽醌生物合成关键酶的基因&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="355" y="761" width="328" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="UvsmiEpQIswJbMZeB2pK-22" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;编码萜类&lt;span style=&quot;color: rgb(31, 31, 31); font-family: ElsevierGulliver, Georgia, &amp;quot;Times New Roman&amp;quot;, Times, STIXGeneral, &amp;quot;Cambria Math&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Microsoft Sans Serif&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Arial Unicode MS&amp;quot;, serif, sans-serif; font-size: 15px; text-align: start; background-color: initial;&quot;&gt;生物合成关键酶的基因&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="354" y="831" width="330" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="RQSGAC8e0qLojzKOslyl-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;container=0;strokeColor=#7EA6E0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="344" y="718" width="474" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="QL65uMJ94kFYykfRdcAl-1" value="&lt;span style=&quot;font-family: Helvetica; font-size: 14px; text-align: left;&quot;&gt;大黄蒽醌途径的基因显著扩增，相关的酶基因在根中高表达。可能导致了大黄根部蒽醌含量丰富&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="694" y="726.5" width="119" height="128.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pjbj3-qJ_IddYUADLCJ1-38" value="特异&amp;amp;扩增基因家族都参与了代谢物生物合成、对胁迫响应。因此大黄又较强环境适应性" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="352" y="447" width="448" height="31" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Jtxl9RPfkXLZXNmB8u9w" name="第 4 页">
+    <mxGraphModel dx="1443" dy="1087" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;container=0;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="392" y="245" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="8LTO_XasQ_Fr6MKY061D-7" target="8LTO_XasQ_Fr6MKY061D-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="8LTO_XasQ_Fr6MKY061D-7" target="8LTO_XasQ_Fr6MKY061D-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="8LTO_XasQ_Fr6MKY061D-7" target="8LTO_XasQ_Fr6MKY061D-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="8LTO_XasQ_Fr6MKY061D-7" target="8LTO_XasQ_Fr6MKY061D-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="8LTO_XasQ_Fr6MKY061D-7" target="8LTO_XasQ_Fr6MKY061D-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-7" value="比较基因组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="58" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fontFamily=Helvetica;" edge="1" parent="1" source="8LTO_XasQ_Fr6MKY061D-9" target="8LTO_XasQ_Fr6MKY061D-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-9" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;1、物种进化关系如何？何时分化？&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="227" y="261" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="8LTO_XasQ_Fr6MKY061D-11" target="8LTO_XasQ_Fr6MKY061D-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-11" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;2、染色体片段如何重组、复制、进化？&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="228" y="337" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="8LTO_XasQ_Fr6MKY061D-13" target="8LTO_XasQ_Fr6MKY061D-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-13" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;3、基因家族差异？&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="228" y="430" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="8LTO_XasQ_Fr6MKY061D-15" target="8LTO_XasQ_Fr6MKY061D-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-15" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;4、哪些基因收到正选择&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="228" y="504" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-16" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;正选择分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="396" y="514" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-17" value="" style="group;fontSize=15;fontFamily=Helvetica;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="392" y="240" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-18" value="" style="group;fontSize=15;fontFamily=Helvetica;" vertex="1" connectable="0" parent="8LTO_XasQ_Fr6MKY061D-17">
+          <mxGeometry x="10" y="15" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-19" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;进化树构建&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="8LTO_XasQ_Fr6MKY061D-18">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-20" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;分歧时间估计&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="8LTO_XasQ_Fr6MKY061D-18">
+          <mxGeometry y="30" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-21" value="" style="group;fontSize=15;fontFamily=Helvetica;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="393" y="321" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;container=0;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="8LTO_XasQ_Fr6MKY061D-21">
+          <mxGeometry width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-23" value="" style="group;fontSize=15;fontFamily=Helvetica;" vertex="1" connectable="0" parent="8LTO_XasQ_Fr6MKY061D-21">
+          <mxGeometry x="10" y="10" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-24" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;共线性分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="8LTO_XasQ_Fr6MKY061D-23">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-25" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;WGD&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="8LTO_XasQ_Fr6MKY061D-23">
+          <mxGeometry y="30" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-26" value="" style="group;fontFamily=Helvetica;fontSize=15;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="393" y="404" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-27" value="" style="group;fontSize=15;fontFamily=Helvetica;" vertex="1" connectable="0" parent="8LTO_XasQ_Fr6MKY061D-26">
+          <mxGeometry width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;container=0;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="8LTO_XasQ_Fr6MKY061D-27">
+          <mxGeometry width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-29" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;基因家族聚类&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="8LTO_XasQ_Fr6MKY061D-26">
+          <mxGeometry x="10" y="10" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-30" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;基因家族收缩、扩张&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="8LTO_XasQ_Fr6MKY061D-26">
+          <mxGeometry x="10" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-31" value="转录组/代谢组联合分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#660000;fontSize=15;fontFamily=Helvetica;fontColor=#660000;" vertex="1" parent="1">
+          <mxGeometry x="58" y="575.5" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-32" value="&lt;span style=&quot;font-size: 15px; text-align: start;&quot;&gt;在不同组织中进行转录组测序&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;fillColor=#d0cee2;strokeColor=#56517e;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="211" y="578.75" width="219" height="21.25" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="8LTO_XasQ_Fr6MKY061D-34" target="8LTO_XasQ_Fr6MKY061D-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-34" value="基因组组装" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="58" y="266" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="8LTO_XasQ_Fr6MKY061D-36" target="8LTO_XasQ_Fr6MKY061D-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-36" value="基因结构注释" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="58" y="315" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="8LTO_XasQ_Fr6MKY061D-38" target="8LTO_XasQ_Fr6MKY061D-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-38" value="基因组质量评价&amp;amp;基因功能注释" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="58" y="364" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-39" value="&lt;span style=&quot;font-size: 15px; text-align: left;&quot;&gt;单倍型等位基因共同调控黄酮代谢物的合成，在组织间无显著差异&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;fillColor=#bac8d3;strokeColor=#23445d;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="536.5" y="566.25" width="229" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-40" value="正选择基因主要与DNA修复、干旱响应等有关" style="whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;rounded=1;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="541" y="499" width="220" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="8LTO_XasQ_Fr6MKY061D-41" value="&lt;span style=&quot;font-size: 15px; text-align: left;&quot;&gt;黄酮合成途径关键基因数量扩增，有助于黄酮类化合物积累，使其有较强抗氧化和抗紫外线能力&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;rounded=1;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="541" y="391" width="229" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln7Mf1d2V3XTnXdrAGQF-1" value="" style="group;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=0;align=center;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="250" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln7Mf1d2V3XTnXdrAGQF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" vertex="1" parent="Ln7Mf1d2V3XTnXdrAGQF-1">
+          <mxGeometry width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln7Mf1d2V3XTnXdrAGQF-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;龙须藤基因组Hap2&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fillColor=#b0e3e6;strokeColor=#0e8088;align=center;" vertex="1" parent="Ln7Mf1d2V3XTnXdrAGQF-1">
+          <mxGeometry x="10" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ln7Mf1d2V3XTnXdrAGQF-4" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot;&gt;10个豆科代表物种的基因组&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="Ln7Mf1d2V3XTnXdrAGQF-1">
+          <mxGeometry x="120" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rx1G5eZuzVXKjtMeoAJ0-1" value="&lt;span style=&quot;font-size: 15px; text-align: start;&quot;&gt;分析等位基因特异性表达模式&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;fillColor=#d0cee2;strokeColor=#56517e;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="211" y="610" width="219" height="21.25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rbCaziEXha_8zhYth-iu" name="第 5 页">
+    <mxGraphModel dx="1010" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;container=0;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="392" y="245" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="ynXHx-vySvn0Nwq7lrw0-7" target="ynXHx-vySvn0Nwq7lrw0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="ynXHx-vySvn0Nwq7lrw0-7" target="ynXHx-vySvn0Nwq7lrw0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="ynXHx-vySvn0Nwq7lrw0-7" target="ynXHx-vySvn0Nwq7lrw0-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="202" y="465" />
+              <mxPoint x="202" y="489" />
+              <mxPoint x="232" y="489" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="ynXHx-vySvn0Nwq7lrw0-7" target="ynXHx-vySvn0Nwq7lrw0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="ynXHx-vySvn0Nwq7lrw0-7" target="ynXHx-vySvn0Nwq7lrw0-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-7" value="比较基因组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="58" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fontFamily=Helvetica;" edge="1" parent="1" source="ynXHx-vySvn0Nwq7lrw0-9" target="ynXHx-vySvn0Nwq7lrw0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-9" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;1、物种进化关系如何？何时分化？&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="227" y="261" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="ynXHx-vySvn0Nwq7lrw0-11" target="ynXHx-vySvn0Nwq7lrw0-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-11" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;2、染色体片段如何重组、复制、进化？&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="228" y="337" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="ynXHx-vySvn0Nwq7lrw0-15" target="ynXHx-vySvn0Nwq7lrw0-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-15" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;4、哪些基因收到正选择&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="226.92" y="589" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-16" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;正选择分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="400.92" y="599" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-17" value="" style="group;fontSize=15;fontFamily=Helvetica;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="392" y="240" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-18" value="" style="group;fontSize=15;fontFamily=Helvetica;" vertex="1" connectable="0" parent="ynXHx-vySvn0Nwq7lrw0-17">
+          <mxGeometry x="10" y="15" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-19" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;进化树构建&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="ynXHx-vySvn0Nwq7lrw0-18">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-20" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;分歧时间估计&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="ynXHx-vySvn0Nwq7lrw0-18">
+          <mxGeometry y="30" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-21" value="" style="group;fontSize=15;fontFamily=Helvetica;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="393" y="321" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;container=0;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="ynXHx-vySvn0Nwq7lrw0-21">
+          <mxGeometry width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-23" value="" style="group;fontSize=15;fontFamily=Helvetica;" vertex="1" connectable="0" parent="ynXHx-vySvn0Nwq7lrw0-21">
+          <mxGeometry x="10" y="10" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-24" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;共线性分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="ynXHx-vySvn0Nwq7lrw0-23">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-25" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;WGD&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="ynXHx-vySvn0Nwq7lrw0-23">
+          <mxGeometry y="30" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-26" value="" style="group;fontFamily=Helvetica;fontSize=15;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="397" y="446" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-27" value="" style="group;fontSize=15;fontFamily=Helvetica;" vertex="1" connectable="0" parent="ynXHx-vySvn0Nwq7lrw0-26">
+          <mxGeometry width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;container=0;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="ynXHx-vySvn0Nwq7lrw0-27">
+          <mxGeometry width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-31" value="转录组/代谢组联合分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#660000;fontSize=15;fontFamily=Helvetica;fontColor=#660000;" vertex="1" parent="1">
+          <mxGeometry x="58" y="689" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="ynXHx-vySvn0Nwq7lrw0-34" target="ynXHx-vySvn0Nwq7lrw0-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-34" value="基因组组装" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="58" y="266" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="ynXHx-vySvn0Nwq7lrw0-36" target="ynXHx-vySvn0Nwq7lrw0-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-36" value="基因结构注释" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="58" y="315" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="ynXHx-vySvn0Nwq7lrw0-38" target="ynXHx-vySvn0Nwq7lrw0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-38" value="基因组质量评价&amp;amp;基因功能注释" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="58" y="364" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-43" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="524" y="685" width="241.84549356223175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-44" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, system-ui, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;黑籽南瓜基因组&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fillColor=#b0e3e6;strokeColor=#0e8088;align=center;" vertex="1" parent="1">
+          <mxGeometry x="530.9950214592275" y="695.5" width="105.15021459227466" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-45" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot;&gt;？个葫芦科代表物种的基因组&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="643.1802575107296" y="695.5" width="118.81974248927038" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="_TcUN1Zzcn10Sclohvhl-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;container=0;strokeColor=#7EA6E0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="552" y="325.38" width="196" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_TcUN1Zzcn10Sclohvhl-12" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;亚基因组区分&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="562" y="332.38" width="180" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="_TcUN1Zzcn10Sclohvhl-13" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;不同类基因重复的功能富集&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="562" y="388.88" width="179" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="_TcUN1Zzcn10Sclohvhl-18" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;通过计算Ks确定WGD&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="561.84" y="360.88" width="178" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_TcUN1Zzcn10Sclohvhl-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;container=0;strokeColor=#7EA6E0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="551" y="494" width="199" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="_TcUN1Zzcn10Sclohvhl-21" value="基因家族收缩扩张" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;fontFamily=Times New Roman;fontSize=13;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="563.7027027027027" y="501.5" width="177.8378378378378" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_TcUN1Zzcn10Sclohvhl-24" value="扩张基因家族功能富集分析" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="563.7" y="529" width="177.84" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_TcUN1Zzcn10Sclohvhl-26" value="鉴定代表性的基因家族" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="563.7" y="557" width="177.84" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_TcUN1Zzcn10Sclohvhl-43" value="关注特异&amp;amp;扩增基因家族中与抗逆响应相关通路" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="758" y="428" width="64" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="_TcUN1Zzcn10Sclohvhl-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="552" y="234.63" width="230" height="90.75" as="geometry" />
+        </mxCell>
+        <mxCell id="_TcUN1Zzcn10Sclohvhl-48" value="" style="group" vertex="1" connectable="0" parent="_TcUN1Zzcn10Sclohvhl-46">
+          <mxGeometry y="10" width="200" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="_TcUN1Zzcn10Sclohvhl-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;container=0;strokeColor=#7EA6E0;fontSize=13;" vertex="1" parent="_TcUN1Zzcn10Sclohvhl-48">
+          <mxGeometry width="200" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="_TcUN1Zzcn10Sclohvhl-6" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;确定黑籽南瓜&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;系统发育位置&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="_TcUN1Zzcn10Sclohvhl-48">
+          <mxGeometry x="11.304347826086957" y="7.370000000000001" width="182.60869565217388" height="21.44" as="geometry" />
+        </mxCell>
+        <mxCell id="_TcUN1Zzcn10Sclohvhl-9" value="构建系统发育关系" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="_TcUN1Zzcn10Sclohvhl-48">
+          <mxGeometry x="11.304347826086957" y="38.37" width="182.60869565217388" height="22.19" as="geometry" />
+        </mxCell>
+        <mxCell id="_TcUN1Zzcn10Sclohvhl-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;container=0;strokeColor=#7EA6E0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="551" y="425" width="201" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="_TcUN1Zzcn10Sclohvhl-31" value="基因家族聚类分析" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;fontFamily=Times New Roman;fontSize=13;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="563.7027027027027" y="433" width="177.8378378378378" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_TcUN1Zzcn10Sclohvhl-33" value="特异基因家族功能富集分析" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="563.5799999999999" y="462" width="177.84" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_TcUN1Zzcn10Sclohvhl-49" value="正选择基因是否与抗逆有关" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;fontFamily=Times New Roman;fontSize=13;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="562.0027027027027" y="597.25" width="177.8378378378378" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=15;" edge="1" parent="1" source="ynXHx-vySvn0Nwq7lrw0-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="397" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-13" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;3、基因家族差异？&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="232" y="471" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-29" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;基因家族聚类&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="407" y="455" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ynXHx-vySvn0Nwq7lrw0-30" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;基因家族收缩、扩张&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="407" y="485" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TcUN1Zzcn10Sclohvhl-50" value="找出黑籽南瓜中含量最高的代谢物及编码代谢物合成相关基因" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Helvetica;fillColor=#fad9d5;strokeColor=#ae4132;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="208" y="689.38" width="263" height="43.62" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
