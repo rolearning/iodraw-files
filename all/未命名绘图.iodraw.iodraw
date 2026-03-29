@@ -69,7 +69,7 @@
         <mxCell id="LTIODrsQQtWpd19YiVFc-21" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LTIODrsQQtWpd19YiVFc-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LTIODrsQQtWpd19YiVFc-23" value="再次检查小猫是否都在房间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="860" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
