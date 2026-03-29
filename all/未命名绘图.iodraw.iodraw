@@ -13,8 +13,14 @@
         <mxCell id="LTIODrsQQtWpd19YiVFc-2" value="洗手" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LTIODrsQQtWpd19YiVFc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTIODrsQQtWpd19YiVFc-3" target="LTIODrsQQtWpd19YiVFc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-3" value="准备罐罐" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTIODrsQQtWpd19YiVFc-6" value="打开铁门" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
