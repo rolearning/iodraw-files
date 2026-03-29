@@ -4,8 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LTIODrsQQtWpd19YiVFc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTIODrsQQtWpd19YiVFc-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-1" value="进门" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="100" width="120" height="30" as="geometry" />
+          <mxGeometry x="200" y="40" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTIODrsQQtWpd19YiVFc-2" target="LTIODrsQQtWpd19YiVFc-3">
           <mxGeometry relative="1" as="geometry" />
@@ -19,8 +24,14 @@
         <mxCell id="LTIODrsQQtWpd19YiVFc-3" value="准备罐罐" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LTIODrsQQtWpd19YiVFc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTIODrsQQtWpd19YiVFc-6" target="LTIODrsQQtWpd19YiVFc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-6" value="打开铁门" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LTIODrsQQtWpd19YiVFc-8" value="打开阳台门" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
