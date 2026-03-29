@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-1" value="进门" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="85" width="120" height="30" as="geometry" />
+          <mxGeometry x="170" y="20" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LTIODrsQQtWpd19YiVFc-2" target="LTIODrsQQtWpd19YiVFc-3">
           <mxGeometry relative="1" as="geometry" />
@@ -70,7 +70,7 @@
           <mxGeometry x="180" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LTIODrsQQtWpd19YiVFc-23" value="再次检查小猫是否都在房间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="860" width="60" height="30" as="geometry" />
+          <mxGeometry x="240" y="850" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
